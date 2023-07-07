@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 
 import html from "../assets/html.svg"
 import css from "../assets/css.svg"
