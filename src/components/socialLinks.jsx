@@ -14,7 +14,7 @@ const socialLinks = () => {
         LinkedIn <FaLinkedin size={30}/>
         </>
       ),
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/ryan-hamilton-51a602212/',
       style: 'rounded-tr-md'
     },
     {
