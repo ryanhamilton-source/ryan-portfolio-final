@@ -18,7 +18,10 @@ const Home = () => {
             </h2>
         
             <p className='text-gray-500 py-4 max-w-md'>
-                Insert paragraph........................................
+            Motivated and detail-oriented student pursuing a Bachelor of Business (Finance) 
+            and Bachelor of Science in Information Technology (Enterprise Systems) seeking 
+            to leverage academic knowledge and diverse work experience in a challenging role within the
+             finance or IT/Software Developer Industry. 
             </p>
             <div>
                 <Link to= "portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2
